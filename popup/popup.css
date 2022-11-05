@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+main {
+  padding: 1rem;
+  text-align: center;
+}
+
+.timer {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.buttons {
+  padding: 10px;
+  font-size: large;
+  width: 300px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.start_button {
+  background-color: #77ee77;
+}
+
+.stop_button {
+  background-color: #ff8585;
+}
+
+.reminder_container {
+  border: 3px solid black;
+  padding: 2rem;
+  width: fit-content;
+  margin: auto;
+  background-color: #eeeeee;
+  border-radius: 5px;
+}
+
+.remind_note {
+  font-size: 2rem;
+  margin: 1rem 0;
+}
+
+.water {
+  font-size: 10rem;
+  color: rgb(81, 151, 255);
+}
